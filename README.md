@@ -2,7 +2,7 @@
 
 ### Dwonload&Install
 
-### git clone https://github.com/Kaizzzo1/DDOS-ATTACK/
+### git clone https://github.com/Kaizzzo1/DDOS-ATTACK.git
 
 ### cd DDos-Attack
 
