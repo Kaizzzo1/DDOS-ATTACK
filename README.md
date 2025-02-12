@@ -4,7 +4,7 @@
 
 ### git clone https://github.com/Kaizzzo1/DDOS-ATTACK.git
 
-### cd DDos-Attack
+### cd DDOS-ATTACK
 
 ### chmod +x ddos-attack.py
 
