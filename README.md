@@ -1,6 +1,6 @@
 # DDOS-ATTACK 
 
-### Dwonload&Install
+### DOWNLOAD & INSTALLATION
 
 ### git clone https://github.com/Kaizzzo1/DDOS-ATTACK.git
 
